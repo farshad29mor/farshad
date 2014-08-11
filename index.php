@@ -1,4 +1,5 @@
 <?php
+echo("hello");
 /* SVN FILE: $Id$ */
 /**
  * Requests collector.
